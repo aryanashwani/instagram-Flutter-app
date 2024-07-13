@@ -1,4 +1,4 @@
-# Instagram Flutter App
+#  Instagram Clone developed with Flutter & Firebase
 
 A completely Responsive Instagram App- Works on Android, iOS & Web
 
